@@ -10,7 +10,7 @@ This upload is just an exe file with some (maybe neccesary) dlls.
 
 1. Block all system defenders, such as 360, Windows Defender, etc.
 
-2. Place the dlls in C:\System32 or whatever place you should put it.
+2. Place the dlls in C:\Windows\System32 or whatever place you should put it.
 
 3. Run the exe.
 
