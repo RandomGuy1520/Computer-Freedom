@@ -26,4 +26,6 @@ This upload is just an exe file with some (maybe neccesary) dlls.
 
 9. Then press "4".
 
-10. You're done. 
+10. Press "5" when you're done playing florr.io.
+
+11. That's it. You're done. 
